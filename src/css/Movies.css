@@ -1,0 +1,27 @@
+.movies-container {
+  height: calc(100vh - 150px);
+  overflow-y: auto;
+  overflow-x: auto;
+}
+
+.autocomplete-container {
+  position: absolute;
+  z-index: 1;
+  top: 10px;
+  left: 356px;
+}
+
+.list-container {
+  position: absolute;
+  z-index: 1;
+  top: 10px;
+  left: 10px;
+}
+
+.margin-top {
+  margin-top: 12px;
+}
+
+.movie-detail-card {
+  max-width: 280px;
+}
