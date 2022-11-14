@@ -1,6 +1,10 @@
 ## Available Scripts
 
-In the project directory, you can run:
+After cloning the project first time run
+
+### `npm install`
+
+And then In the project directory, you can run:
 
 ### `npm start`
 
