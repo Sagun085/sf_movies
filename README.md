@@ -32,3 +32,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ## Notes
 
+- The data from API is location centric. So on load, the data is formatted to be movie centric and stored in `redux`.
+- Data is loaded 
