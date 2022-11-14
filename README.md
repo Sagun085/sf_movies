@@ -1,8 +1,6 @@
 ## Available Scripts
 
-After cloning the project first time run
-
-### `npm install`
+After cloning the project first time run `npm install` to install the dependencies 
 
 And then In the project directory, you can run:
 
